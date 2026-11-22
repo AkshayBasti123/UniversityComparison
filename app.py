@@ -4,6 +4,7 @@ import pandas as pd
 app = Flask(__name__)
 
 df = pd.read_csv("data/universities.csv")
+df = df[df["grad_year"] == 2022]
 
 
 @app.route("/")

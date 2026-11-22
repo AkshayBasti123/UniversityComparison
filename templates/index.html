@@ -27,7 +27,7 @@
     {% for row in results %}
       <article class="card">
         <h2>{{ row.university }}</h2>
-        <p class="city">{{ row.city }}</p>
+        <p class="city">{{ row.city }} · Graduating class of {{ row.grad_year }}</p>
         <ul>
           <li>Employed 2 years after graduating:
             <strong>{% if row.emp_rate_2yr is not none %}{{ row.emp_rate_2yr }}%{% else %}N/A{% endif %}</strong></li>
