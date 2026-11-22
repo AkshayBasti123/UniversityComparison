@@ -1,0 +1,53 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  background: #f4f6fb;
+  color: #1c2333;
+}
+
+header {
+  background: #1f3a93;
+  color: white;
+  padding: 2rem 1.5rem;
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+form {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+select, button {
+  padding: 0.6rem 0.9rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #c5cbe0;
+}
+
+button {
+  background: #1f3a93;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.card h2 { margin: 0; }
+.city { color: #6b7390; margin: 0.25rem 0 1rem; }
+.card ul { padding-left: 1.2rem; }
