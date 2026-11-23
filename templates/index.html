@@ -4,45 +4,127 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ontario University Finder</title>
+  <meta name="description" content="Compare Ontario universities by graduate employment rates and first-year tuition for the program you want to study.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-  <header>
-    <h1>Ontario University Finder</h1>
-    <p>Pick what you want to study and compare real graduate outcomes.</p>
+
+  <header class="hero">
+    <div class="hero__inner">
+      <p class="brand">Ontario University Finder</p>
+      <h1>Find the Ontario university that fits what you want to study</h1>
+      <p class="hero__lead">See how many graduates have jobs and what first-year tuition costs, side by side.</p>
+    </div>
   </header>
 
-  <main>
-    <form method="get">
-      <label for="program">I want to study:</label>
-      <select name="program" id="program">
-        <option value="">Choose a program…</option>
-        {% for p in programs %}
-          <option value="{{ p }}" {% if p == selected %}selected{% endif %}>{{ p }}</option>
-        {% endfor %}
-      </select>
-      <button type="submit">Search</button>
-    </form>
+  <section class="search" aria-label="Choose a program">
+    <div class="search__panel">
+      <form class="search__form" method="get">
+        <div class="field">
+          <label for="program">What do you want to study?</label>
+          <select name="program" id="program">
+            <option value="">Choose a program</option>
+            {% for p in programs %}
+              <option value="{{ p }}" {% if p == selected %}selected{% endif %}>{{ p }}</option>
+            {% endfor %}
+          </select>
+        </div>
+        <button class="btn" type="submit">Compare universities</button>
+      </form>
 
-    {% for row in results %}
-      <article class="card">
-        <h2>{{ row.university }}</h2>
-        <p class="city">{{ row.city }} · Graduating class of {{ row.grad_year }}</p>
-        <ul>
-          <li>Employed 2 years after graduating:
-            <strong>{% if row.emp_rate_2yr is not none %}{{ row.emp_rate_2yr }}%{% else %}N/A{% endif %}</strong></li>
-          <li>Employed 6 months after graduating:
-            <strong>{% if row.emp_rate_6mo is not none %}{{ row.emp_rate_6mo }}%{% else %}N/A{% endif %}</strong></li>
-          <li>Tuition (domestic):
-            <strong>{% if row.tuition_domestic is not none %}${{ "{:,.0f}".format(row.tuition_domestic) }}{% else %}N/A{% endif %}</strong></li>
-            {% if row.tuition_note %}
-          <li class="note">{{ row.tuition_note }} ({{ row.tuition_year }})
-            <a href="{{ row.source_url }}" target="_blank">Source</a></li>
-{% endif %}
-        </ul>
-        <a href="{{ row.website }}" target="_blank">Visit university site</a>
-      </article>
-    {% endfor %}
+      <div class="chips">
+        <span>Popular searches:</span>
+        <a class="chip" href="{{ url_for('home', program='Computer Science') }}">Computer Science</a>
+        <a class="chip" href="{{ url_for('home', program='Engineering') }}">Engineering</a>
+        <a class="chip" href="{{ url_for('home', program='Nursing') }}">Nursing</a>
+        <a class="chip" href="{{ url_for('home', program='Business & Commerce') }}">Business &amp; Commerce</a>
+        <a class="chip" href="{{ url_for('home', program='Mathematics') }}">Mathematics</a>
+      </div>
+    </div>
+  </section>
+
+  <main class="results">
+
+    {% if results %}
+      <div class="results__head">
+        <h2>{{ selected }} at {{ results|length }} universities</h2>
+        <p>Sorted by the share of graduates employed 2 years after graduating.</p>
+      </div>
+
+      {% for row in results %}
+        <article class="uni {% if loop.first %}uni--top{% endif %}">
+          <div class="uni__rank" aria-label="Rank {{ loop.index }}">{{ loop.index }}</div>
+
+          <div class="uni__main">
+            <h3>{{ row.university }}</h3>
+            <p class="uni__city">{{ row.city }}, Ontario</p>
+            <p class="uni__class"><span class="pill">Class of {{ row.grad_year }}</span></p>
+            <a class="uni__link" href="{{ row.website }}" target="_blank" rel="noopener">Visit university site</a>
+          </div>
+
+          <div class="uni__stats">
+            <div class="meter">
+              <div class="meter__top">
+                <span>Employed after 2 years</span>
+                <strong>{% if row.emp_rate_2yr is not none %}{{ "{:g}".format(row.emp_rate_2yr) }}%{% else %}Not reported{% endif %}</strong>
+              </div>
+              <div class="meter__track">
+                {% if row.emp_rate_2yr is not none %}<div class="meter__fill meter__fill--long" style="--w: {{ row.emp_rate_2yr }}%"></div>{% endif %}
+              </div>
+            </div>
+
+            <div class="meter">
+              <div class="meter__top">
+                <span>Employed after 6 months</span>
+                <strong>{% if row.emp_rate_6mo is not none %}{{ "{:g}".format(row.emp_rate_6mo) }}%{% else %}Not reported{% endif %}</strong>
+              </div>
+              <div class="meter__track">
+                {% if row.emp_rate_6mo is not none %}<div class="meter__fill meter__fill--short" style="--w: {{ row.emp_rate_6mo }}%"></div>{% endif %}
+              </div>
+            </div>
+          </div>
+
+          <div class="uni__cost">
+            <p class="cost__label">First-year tuition</p>
+            {% if row.tuition_domestic is not none %}
+              <p class="cost__amount">${{ "{:,.0f}".format(row.tuition_domestic) }}</p>
+              {% if row.tuition_note %}
+                <p class="cost__note">{{ row.tuition_note }} ({{ row.tuition_year }})</p>
+              {% endif %}
+              {% if row.source_url %}
+                <a class="cost__source" href="{{ row.source_url }}" target="_blank" rel="noopener">See where this comes from</a>
+              {% endif %}
+            {% else %}
+              <p class="cost__none">Not available yet</p>
+              <p class="cost__note">Check the university's fee page for this program.</p>
+            {% endif %}
+          </div>
+        </article>
+      {% endfor %}
+
+    {% elif selected %}
+      <div class="empty">
+        <h2>We don't have data for {{ selected }} yet</h2>
+        <p>Try another program from the list above.</p>
+      </div>
+
+    {% else %}
+      <div class="empty">
+        <h2>Pick a program to get started</h2>
+        <p>Choose what you want to study above, and you'll see how each university compares on jobs after graduation and tuition.</p>
+      </div>
+    {% endif %}
+
   </main>
+
+  <footer class="about">
+    <h2>About this data</h2>
+    <p><strong>Employment rates</strong> come from the Council of Ontario Universities' Common University Data Ontario (CUDO) reports and describe the graduating class of {{ results[0].grad_year if results else 2022 }}. Small programs can swing a lot from year to year.</p>
+    <p><strong>Tuition</strong> comes from each university's 2026-27 fee information for Ontario residents. Some figures are estimates or calculations, and some include extra fees, so read the note on each card before comparing.</p>
+  </footer>
+
 </body>
 </html>

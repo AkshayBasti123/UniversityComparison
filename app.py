@@ -16,7 +16,7 @@ def home():
     if selected:
         matches = df[df["program"] == selected]
         matches = matches.sort_values("emp_rate_2yr", ascending=False)
-        # turn blanks (NaN) into None so the HTML can check for them
+        #turn blanks (NaN) into None so the HTML can check for them
         matches = matches.astype(object).where(matches.notna(), None)
         results = matches.to_dict("records")
 
