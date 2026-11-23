@@ -6,9 +6,6 @@
 
 Pick what you want to study and see how six Ontario universities compare on **graduate employment** and **first-year tuition**, side by side. Every tuition figure says what it includes and links to where it came from.
 
-![Home page](screenshots/home.png)
-![Results for Computer Science](screenshots/results.png)
-
 ## The question
 
 When you're choosing a university, the same program can lead to very different outcomes depending on where you study it. This project asks: **for the program you want, how do Ontario universities compare on jobs after graduation and on cost?**
@@ -44,44 +41,6 @@ These are descriptive findings for the six universities in this project, using t
 
 Python, pandas, Flask, Jinja, HTML, CSS, Gunicorn, Git/GitHub, Render.
 
-## Project structure
-
-```
-UniversityComparison/
-├── app.py                  Flask app
-├── requirements.txt
-├── data/
-│   ├── raw/                Original COU exports
-│   ├── tuition.csv         Hand-checked tuition, with sources
-│   └── universities.csv    Final dataset used by the site
-├── src/
-│   ├── tidy.py             Reshapes the COU exports
-│   ├── build_dataset.py    Builds the employment dataset
-│   └── add_tuition.py      Merges in tuition
-├── templates/index.html
-├── static/style.css
-└── screenshots/
-```
-
-## Run it locally
-
-```bash
-git clone https://github.com/AkshayBasti123/UniversityComparison.git
-cd UniversityComparison
-python3 -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-python app.py
-```
-
-Then open http://127.0.0.1:5001.
-
-To rebuild the dataset from the raw export:
-
-```bash
-python src/build_dataset.py
-python src/add_tuition.py
-```
 
 ## Limitations
 
