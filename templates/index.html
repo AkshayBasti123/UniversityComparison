@@ -35,6 +35,10 @@
             <strong>{% if row.emp_rate_6mo is not none %}{{ row.emp_rate_6mo }}%{% else %}N/A{% endif %}</strong></li>
           <li>Tuition (domestic):
             <strong>{% if row.tuition_domestic is not none %}${{ "{:,.0f}".format(row.tuition_domestic) }}{% else %}N/A{% endif %}</strong></li>
+            {% if row.tuition_note %}
+          <li class="note">{{ row.tuition_note }} ({{ row.tuition_year }})
+            <a href="{{ row.source_url }}" target="_blank">Source</a></li>
+{% endif %}
         </ul>
         <a href="{{ row.website }}" target="_blank">Visit university site</a>
       </article>

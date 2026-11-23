@@ -1,200 +1,200 @@
-university,city,program,grad_year,emp_rate_2yr,emp_rate_6mo,tuition_domestic,coop,website
-McMaster University,Hamilton,Agriculture & Biological Science,2021,94.18,88.41,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Agriculture & Biological Science,2022,88.74,88.75,,,https://www.mcmaster.ca
-Ontario Tech University,Oshawa,Agriculture & Biological Science,2021,84.62,73.91,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,Agriculture & Biological Science,2022,90.0,90.0,,,https://ontariotechu.ca
-University of Toronto,Toronto,Agriculture & Biological Science,2021,88.38,82.53,,,https://www.utoronto.ca
-University of Toronto,Toronto,Agriculture & Biological Science,2022,88.71,84.62,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Agriculture & Biological Science,2021,94.0,94.92,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Agriculture & Biological Science,2022,85.07,77.33,,,https://uwaterloo.ca
-Western University,London,Agriculture & Biological Science,2021,87.64,89.41,,,https://www.uwo.ca
-Western University,London,Agriculture & Biological Science,2022,92.06,91.04,,,https://www.uwo.ca
-York University,Toronto,Agriculture & Biological Science,2021,89.62,79.41,,,https://www.yorku.ca
-York University,Toronto,Agriculture & Biological Science,2022,85.19,78.69,,,https://www.yorku.ca
-University of Toronto,Toronto,Architecture,2021,96.55,76.92,,,https://www.utoronto.ca
-University of Toronto,Toronto,Architecture,2022,92.31,80.0,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Architecture,2021,66.67,92.86,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Architecture,2022,66.67,83.33,,,https://uwaterloo.ca
-McMaster University,Hamilton,Business & Commerce,2021,95.28,95.14,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Business & Commerce,2022,95.45,91.48,,,https://www.mcmaster.ca
-Ontario Tech University,Oshawa,Business & Commerce,2021,92.59,91.82,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,Business & Commerce,2022,78.05,82.28,,,https://ontariotechu.ca
-University of Toronto,Toronto,Business & Commerce,2021,93.24,92.62,,,https://www.utoronto.ca
-University of Toronto,Toronto,Business & Commerce,2022,95.4,92.69,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Business & Commerce,2021,92.12,94.85,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Business & Commerce,2022,97.66,94.41,,,https://uwaterloo.ca
-Western University,London,Business & Commerce,2021,93.95,95.31,,,https://www.uwo.ca
-Western University,London,Business & Commerce,2022,96.55,97.22,,,https://www.uwo.ca
-York University,Toronto,Business & Commerce,2021,93.53,92.2,,,https://www.yorku.ca
-York University,Toronto,Business & Commerce,2022,92.35,87.85,,,https://www.yorku.ca
-McMaster University,Hamilton,Computer Science,2021,100.0,85.71,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Computer Science,2022,87.5,77.78,,,https://www.mcmaster.ca
-Ontario Tech University,Oshawa,Computer Science,2021,91.78,87.67,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,Computer Science,2022,80.77,58.0,,,https://ontariotechu.ca
-University of Toronto,Toronto,Computer Science,2021,92.22,90.17,,,https://www.utoronto.ca
-University of Toronto,Toronto,Computer Science,2022,89.08,87.86,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Computer Science,2021,96.86,96.13,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Computer Science,2022,94.95,96.94,,,https://uwaterloo.ca
-Western University,London,Computer Science,2021,94.44,88.89,,,https://www.uwo.ca
-Western University,London,Computer Science,2022,87.18,80.0,,,https://www.uwo.ca
-York University,Toronto,Computer Science,2021,83.49,76.15,,,https://www.yorku.ca
-York University,Toronto,Computer Science,2022,87.07,77.31,,,https://www.yorku.ca
-University of Toronto,Toronto,Dentistry,2021,100.0,100.0,,,https://www.utoronto.ca
-University of Toronto,Toronto,Dentistry,2022,100.0,100.0,,,https://www.utoronto.ca
-Western University,London,Dentistry,2021,100.0,100.0,,,https://www.uwo.ca
-Western University,London,Dentistry,2022,100.0,100.0,,,https://www.uwo.ca
-Ontario Tech University,Oshawa,Education,2021,97.17,92.16,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,Education,2022,98.28,94.64,,,https://ontariotechu.ca
-University of Toronto,Toronto,Education,2021,100.0,100.0,,,https://www.utoronto.ca
-University of Toronto,Toronto,Education,2022,100.0,100.0,,,https://www.utoronto.ca
-Western University,London,Education,2021,98.95,100.0,,,https://www.uwo.ca
-Western University,London,Education,2022,100.0,100.0,,,https://www.uwo.ca
-York University,Toronto,Education,2021,100.0,95.12,,,https://www.yorku.ca
-York University,Toronto,Education,2022,99.06,95.33,,,https://www.yorku.ca
-McMaster University,Hamilton,Engineering,2021,93.33,86.99,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Engineering,2022,93.73,90.73,,,https://www.mcmaster.ca
-Ontario Tech University,Oshawa,Engineering,2021,93.15,86.71,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,Engineering,2022,87.07,81.2,,,https://ontariotechu.ca
-University of Toronto,Toronto,Engineering,2021,93.98,93.15,,,https://www.utoronto.ca
-University of Toronto,Toronto,Engineering,2022,93.02,91.67,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Engineering,2021,96.14,95.72,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Engineering,2022,94.27,93.11,,,https://uwaterloo.ca
-Western University,London,Engineering,2021,87.16,87.0,,,https://www.uwo.ca
-Western University,London,Engineering,2022,92.5,92.21,,,https://www.uwo.ca
-York University,Toronto,Engineering,2021,88.46,86.96,,,https://www.yorku.ca
-York University,Toronto,Engineering,2022,96.43,96.43,,,https://www.yorku.ca
-McMaster University,Hamilton,Fine & Applied Arts,2021,100.0,81.82,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Fine & Applied Arts,2022,66.67,100.0,,,https://www.mcmaster.ca
-University of Toronto,Toronto,Fine & Applied Arts,2021,88.89,86.79,,,https://www.utoronto.ca
-University of Toronto,Toronto,Fine & Applied Arts,2022,93.18,81.08,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Fine & Applied Arts,2021,100.0,100.0,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Fine & Applied Arts,2022,100.0,100.0,,,https://uwaterloo.ca
-Western University,London,Fine & Applied Arts,2021,90.0,83.33,,,https://www.uwo.ca
-Western University,London,Fine & Applied Arts,2022,86.36,93.75,,,https://www.uwo.ca
-York University,Toronto,Fine & Applied Arts,2021,93.46,88.36,,,https://www.yorku.ca
-York University,Toronto,Fine & Applied Arts,2022,82.68,76.42,,,https://www.yorku.ca
-University of Toronto,Toronto,Food Science & Nutrition,2021,100.0,88.89,,,https://www.utoronto.ca
-University of Toronto,Toronto,Food Science & Nutrition,2022,88.89,87.5,,,https://www.utoronto.ca
-Western University,London,Food Science & Nutrition,2021,94.44,93.62,,,https://www.uwo.ca
-Western University,London,Food Science & Nutrition,2022,100.0,100.0,,,https://www.uwo.ca
-University of Toronto,Toronto,Forestry,2021,100.0,,,,https://www.utoronto.ca
-University of Toronto,Toronto,Forestry,2022,100.0,66.67,,,https://www.utoronto.ca
-McMaster University,Hamilton,Humanities,2021,91.0,90.36,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Humanities,2022,90.41,83.78,,,https://www.mcmaster.ca
-Ontario Tech University,Oshawa,Humanities,2021,77.78,88.89,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,Humanities,2022,83.33,90.0,,,https://ontariotechu.ca
-University of Toronto,Toronto,Humanities,2021,89.69,87.5,,,https://www.utoronto.ca
-University of Toronto,Toronto,Humanities,2022,88.85,84.89,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Humanities,2021,90.16,92.86,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Humanities,2022,90.0,93.94,,,https://uwaterloo.ca
-Western University,London,Humanities,2021,95.16,92.79,,,https://www.uwo.ca
-Western University,London,Humanities,2022,96.36,94.44,,,https://www.uwo.ca
-York University,Toronto,Humanities,2021,93.75,85.84,,,https://www.yorku.ca
-York University,Toronto,Humanities,2022,90.48,86.31,,,https://www.yorku.ca
-University of Toronto,Toronto,Journalism,2021,100.0,75.0,,,https://www.utoronto.ca
-University of Toronto,Toronto,Journalism,2022,100.0,80.0,,,https://www.utoronto.ca
-McMaster University,Hamilton,"Kinesiology, Recreation & Phys. Educ.",2021,96.61,93.88,,,https://www.mcmaster.ca
-McMaster University,Hamilton,"Kinesiology, Recreation & Phys. Educ.",2022,95.0,92.31,,,https://www.mcmaster.ca
-Ontario Tech University,Oshawa,"Kinesiology, Recreation & Phys. Educ.",2021,94.59,83.33,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,"Kinesiology, Recreation & Phys. Educ.",2022,88.89,96.0,,,https://ontariotechu.ca
-University of Toronto,Toronto,"Kinesiology, Recreation & Phys. Educ.",2021,98.18,93.75,,,https://www.utoronto.ca
-University of Toronto,Toronto,"Kinesiology, Recreation & Phys. Educ.",2022,95.45,93.33,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,"Kinesiology, Recreation & Phys. Educ.",2021,93.33,93.67,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,"Kinesiology, Recreation & Phys. Educ.",2022,90.0,96.92,,,https://uwaterloo.ca
-Western University,London,"Kinesiology, Recreation & Phys. Educ.",2021,98.36,92.45,,,https://www.uwo.ca
-Western University,London,"Kinesiology, Recreation & Phys. Educ.",2022,97.92,95.35,,,https://www.uwo.ca
-York University,Toronto,"Kinesiology, Recreation & Phys. Educ.",2021,88.15,82.61,,,https://www.yorku.ca
-York University,Toronto,"Kinesiology, Recreation & Phys. Educ.",2022,88.52,85.95,,,https://www.yorku.ca
-University of Toronto,Toronto,Law,2021,98.02,93.46,,,https://www.utoronto.ca
-University of Toronto,Toronto,Law,2022,94.37,83.1,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Law,2021,95.0,95.0,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Law,2022,92.86,93.75,,,https://uwaterloo.ca
-Western University,London,Law,2021,94.87,97.44,,,https://www.uwo.ca
-Western University,London,Law,2022,96.15,96.0,,,https://www.uwo.ca
-York University,Toronto,Law,2021,95.06,97.53,,,https://www.yorku.ca
-York University,Toronto,Law,2022,90.28,94.44,,,https://www.yorku.ca
-McMaster University,Hamilton,Mathematics,2021,88.14,88.89,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Mathematics,2022,85.37,80.56,,,https://www.mcmaster.ca
-Ontario Tech University,Oshawa,Mathematics,2021,100.0,100.0,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,Mathematics,2022,100.0,100.0,,,https://ontariotechu.ca
-University of Toronto,Toronto,Mathematics,2021,85.63,83.12,,,https://www.utoronto.ca
-University of Toronto,Toronto,Mathematics,2022,87.66,82.99,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Mathematics,2021,97.62,90.43,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Mathematics,2022,93.81,91.21,,,https://uwaterloo.ca
-Western University,London,Mathematics,2021,95.0,100.0,,,https://www.uwo.ca
-Western University,London,Mathematics,2022,94.44,94.44,,,https://www.uwo.ca
-York University,Toronto,Mathematics,2021,94.12,80.0,,,https://www.yorku.ca
-York University,Toronto,Mathematics,2022,89.47,88.89,,,https://www.yorku.ca
-McMaster University,Hamilton,Medicine & Related Programs,2021,100.0,98.65,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Medicine & Related Programs,2022,100.0,100.0,,,https://www.mcmaster.ca
-University of Toronto,Toronto,Medicine & Related Programs,2021,100.0,100.0,,,https://www.utoronto.ca
-University of Toronto,Toronto,Medicine & Related Programs,2022,98.28,96.49,,,https://www.utoronto.ca
-Western University,London,Medicine & Related Programs,2021,100.0,100.0,,,https://www.uwo.ca
-Western University,London,Medicine & Related Programs,2022,100.0,100.0,,,https://www.uwo.ca
-McMaster University,Hamilton,Nursing,2021,98.91,99.45,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Nursing,2022,98.4,96.83,,,https://www.mcmaster.ca
-Ontario Tech University,Oshawa,Nursing,2021,98.99,97.0,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,Nursing,2022,97.44,96.0,,,https://ontariotechu.ca
-University of Toronto,Toronto,Nursing,2021,97.73,100.0,,,https://www.utoronto.ca
-University of Toronto,Toronto,Nursing,2022,100.0,100.0,,,https://www.utoronto.ca
-Western University,London,Nursing,2021,96.47,98.8,,,https://www.uwo.ca
-Western University,London,Nursing,2022,97.22,98.59,,,https://www.uwo.ca
-York University,Toronto,Nursing,2021,96.39,91.46,,,https://www.yorku.ca
-York University,Toronto,Nursing,2022,96.58,92.86,,,https://www.yorku.ca
-University of Waterloo,Waterloo,Optometry,2021,100.0,100.0,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Optometry,2022,100.0,100.0,,,https://uwaterloo.ca
-McMaster University,Hamilton,Other Arts & Science,2021,100.0,100.0,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Other Arts & Science,2022,100.0,100.0,,,https://www.mcmaster.ca
-University of Toronto,Toronto,Other Arts & Science,2021,90.91,95.24,,,https://www.utoronto.ca
-University of Toronto,Toronto,Other Arts & Science,2022,85.19,76.0,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Other Arts & Science,2021,95.5,84.76,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Other Arts & Science,2022,90.1,83.51,,,https://uwaterloo.ca
-Western University,London,Other Arts & Science,2021,100.0,100.0,,,https://www.uwo.ca
-Western University,London,Other Arts & Science,2022,92.86,84.62,,,https://www.uwo.ca
-York University,Toronto,Other Arts & Science,2021,75.0,66.67,,,https://www.yorku.ca
-York University,Toronto,Other Arts & Science,2022,80.0,33.33,,,https://www.yorku.ca
-McMaster University,Hamilton,Other Health Professions,2021,97.6,98.45,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Other Health Professions,2022,95.15,96.33,,,https://www.mcmaster.ca
-Ontario Tech University,Oshawa,Other Health Professions,2021,91.07,90.2,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,Other Health Professions,2022,90.2,87.23,,,https://ontariotechu.ca
-University of Toronto,Toronto,Other Health Professions,2021,91.03,86.75,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Other Health Professions,2021,96.0,93.02,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Other Health Professions,2022,95.16,88.33,,,https://uwaterloo.ca
-Western University,London,Other Health Professions,2021,93.71,92.86,,,https://www.uwo.ca
-Western University,London,Other Health Professions,2022,91.35,92.31,,,https://www.uwo.ca
-York University,Toronto,Other Health Professions,2021,88.0,70.83,,,https://www.yorku.ca
-York University,Toronto,Other Health Professions,2022,84.62,85.71,,,https://www.yorku.ca
-University of Toronto,Toronto,Pharmacy,2021,98.98,100.0,,,https://www.utoronto.ca
-University of Toronto,Toronto,Pharmacy,2022,98.48,100.0,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Pharmacy,2021,100.0,100.0,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Pharmacy,2022,100.0,97.37,,,https://uwaterloo.ca
-McMaster University,Hamilton,Physical Science,2021,97.37,90.63,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Physical Science,2022,96.43,90.32,,,https://www.mcmaster.ca
-Ontario Tech University,Oshawa,Physical Science,2021,100.0,88.89,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,Physical Science,2022,100.0,50.0,,,https://ontariotechu.ca
-University of Toronto,Toronto,Physical Science,2021,91.94,84.48,,,https://www.utoronto.ca
-University of Toronto,Toronto,Physical Science,2022,80.95,85.48,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Physical Science,2021,94.87,91.18,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Physical Science,2022,86.11,82.35,,,https://uwaterloo.ca
-Western University,London,Physical Science,2021,85.71,91.67,,,https://www.uwo.ca
-Western University,London,Physical Science,2022,78.26,91.67,,,https://www.uwo.ca
-York University,Toronto,Physical Science,2021,92.86,61.54,,,https://www.yorku.ca
-York University,Toronto,Physical Science,2022,88.24,82.35,,,https://www.yorku.ca
-McMaster University,Hamilton,Social Science,2021,91.19,90.3,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Social Science,2022,89.11,86.54,,,https://www.mcmaster.ca
-Ontario Tech University,Oshawa,Social Science,2021,94.59,85.29,,,https://ontariotechu.ca
-Ontario Tech University,Oshawa,Social Science,2022,92.55,82.47,,,https://ontariotechu.ca
-University of Toronto,Toronto,Social Science,2021,91.54,85.14,,,https://www.utoronto.ca
-University of Toronto,Toronto,Social Science,2022,87.79,83.54,,,https://www.utoronto.ca
-University of Waterloo,Waterloo,Social Science,2021,94.32,91.4,,,https://uwaterloo.ca
-University of Waterloo,Waterloo,Social Science,2022,93.19,90.83,,,https://uwaterloo.ca
-Western University,London,Social Science,2021,96.91,87.2,,,https://www.uwo.ca
-Western University,London,Social Science,2022,92.11,88.99,,,https://www.uwo.ca
-York University,Toronto,Social Science,2021,90.3,82.79,,,https://www.yorku.ca
-York University,Toronto,Social Science,2022,88.34,81.06,,,https://www.yorku.ca
-McMaster University,Hamilton,Theology,2021,75.0,75.0,,,https://www.mcmaster.ca
-McMaster University,Hamilton,Theology,2022,100.0,83.33,,,https://www.mcmaster.ca
-University of Toronto,Toronto,Theology,2022,96.88,96.77,,,https://www.utoronto.ca
-Western University,London,Theology,2021,91.67,100.0,,,https://www.uwo.ca
-Western University,London,Therapy & Rehabilitation,2021,100.0,90.0,,,https://www.uwo.ca
-Western University,London,Therapy & Rehabilitation,2022,100.0,100.0,,,https://www.uwo.ca
+university,city,program,grad_year,emp_rate_2yr,emp_rate_6mo,coop,website,tuition_domestic,tuition_note,tuition_year,source_url
+McMaster University,Hamilton,Agriculture & Biological Science,2021,94.18,88.41,,https://www.mcmaster.ca,,,,
+McMaster University,Hamilton,Agriculture & Biological Science,2022,88.74,88.75,,https://www.mcmaster.ca,,,,
+Ontario Tech University,Oshawa,Agriculture & Biological Science,2021,84.62,73.91,,https://ontariotechu.ca,,,,
+Ontario Tech University,Oshawa,Agriculture & Biological Science,2022,90.0,90.0,,https://ontariotechu.ca,,,,
+University of Toronto,Toronto,Agriculture & Biological Science,2021,88.38,82.53,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Agriculture & Biological Science,2022,88.71,84.62,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Agriculture & Biological Science,2021,94.0,94.92,,https://uwaterloo.ca,,,,
+University of Waterloo,Waterloo,Agriculture & Biological Science,2022,85.07,77.33,,https://uwaterloo.ca,,,,
+Western University,London,Agriculture & Biological Science,2021,87.64,89.41,,https://www.uwo.ca,,,,
+Western University,London,Agriculture & Biological Science,2022,92.06,91.04,,https://www.uwo.ca,,,,
+York University,Toronto,Agriculture & Biological Science,2021,89.62,79.41,,https://www.yorku.ca,,,,
+York University,Toronto,Agriculture & Biological Science,2022,85.19,78.69,,https://www.yorku.ca,,,,
+University of Toronto,Toronto,Architecture,2021,96.55,76.92,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Architecture,2022,92.31,80.0,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Architecture,2021,66.67,92.86,,https://uwaterloo.ca,,,,
+University of Waterloo,Waterloo,Architecture,2022,66.67,83.33,,https://uwaterloo.ca,,,,
+McMaster University,Hamilton,Business & Commerce,2021,95.28,95.14,,https://www.mcmaster.ca,9541.8,Tuition only. Calculated: B.Com. Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+McMaster University,Hamilton,Business & Commerce,2022,95.45,91.48,,https://www.mcmaster.ca,9541.8,Tuition only. Calculated: B.Com. Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+Ontario Tech University,Oshawa,Business & Commerce,2021,92.59,91.82,,https://ontariotechu.ca,,,,
+Ontario Tech University,Oshawa,Business & Commerce,2022,78.05,82.28,,https://ontariotechu.ca,,,,
+University of Toronto,Toronto,Business & Commerce,2021,93.24,92.62,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Business & Commerce,2022,95.4,92.69,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Business & Commerce,2021,92.12,94.85,,https://uwaterloo.ca,,,,
+University of Waterloo,Waterloo,Business & Commerce,2022,97.66,94.41,,https://uwaterloo.ca,,,,
+Western University,London,Business & Commerce,2021,93.95,95.31,,https://www.uwo.ca,,,,
+Western University,London,Business & Commerce,2022,96.55,97.22,,https://www.uwo.ca,,,,
+York University,Toronto,Business & Commerce,2021,93.53,92.2,,https://www.yorku.ca,,,,
+York University,Toronto,Business & Commerce,2022,92.35,87.85,,https://www.yorku.ca,,,,
+McMaster University,Hamilton,Computer Science,2021,100.0,85.71,,https://www.mcmaster.ca,9290.1,Tuition only. Calculated: Level 1 unit rate x 30 units; actual first-year load may be higher.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+McMaster University,Hamilton,Computer Science,2022,87.5,77.78,,https://www.mcmaster.ca,9290.1,Tuition only. Calculated: Level 1 unit rate x 30 units; actual first-year load may be higher.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+Ontario Tech University,Oshawa,Computer Science,2021,91.78,87.67,,https://ontariotechu.ca,,,,
+Ontario Tech University,Oshawa,Computer Science,2022,80.77,58.0,,https://ontariotechu.ca,,,,
+University of Toronto,Toronto,Computer Science,2021,92.22,90.17,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Computer Science,2022,89.08,87.86,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Computer Science,2021,96.86,96.13,,https://uwaterloo.ca,16000.0,Estimate: tuition plus incidental fees for two terms; rounded.,2026-27,https://uwaterloo.ca/future-students/financing/tuition
+University of Waterloo,Waterloo,Computer Science,2022,94.95,96.94,,https://uwaterloo.ca,16000.0,Estimate: tuition plus incidental fees for two terms; rounded.,2026-27,https://uwaterloo.ca/future-students/financing/tuition
+Western University,London,Computer Science,2021,94.44,88.89,,https://www.uwo.ca,8077.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+Western University,London,Computer Science,2022,87.18,80.0,,https://www.uwo.ca,8077.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+York University,Toronto,Computer Science,2021,83.49,76.15,,https://www.yorku.ca,8800.0,Approximate tuition only.,2026-27,https://futurestudents.yorku.ca/financing-your-degree/tuition-fees
+York University,Toronto,Computer Science,2022,87.07,77.31,,https://www.yorku.ca,8800.0,Approximate tuition only.,2026-27,https://futurestudents.yorku.ca/financing-your-degree/tuition-fees
+University of Toronto,Toronto,Dentistry,2021,100.0,100.0,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Dentistry,2022,100.0,100.0,,https://www.utoronto.ca,,,,
+Western University,London,Dentistry,2021,100.0,100.0,,https://www.uwo.ca,,,,
+Western University,London,Dentistry,2022,100.0,100.0,,https://www.uwo.ca,,,,
+Ontario Tech University,Oshawa,Education,2021,97.17,92.16,,https://ontariotechu.ca,,,,
+Ontario Tech University,Oshawa,Education,2022,98.28,94.64,,https://ontariotechu.ca,,,,
+University of Toronto,Toronto,Education,2021,100.0,100.0,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Education,2022,100.0,100.0,,https://www.utoronto.ca,,,,
+Western University,London,Education,2021,98.95,100.0,,https://www.uwo.ca,,,,
+Western University,London,Education,2022,100.0,100.0,,https://www.uwo.ca,,,,
+York University,Toronto,Education,2021,100.0,95.12,,https://www.yorku.ca,,,,
+York University,Toronto,Education,2022,99.06,95.33,,https://www.yorku.ca,,,,
+McMaster University,Hamilton,Engineering,2021,93.33,86.99,,https://www.mcmaster.ca,10293.0,Tuition only. Calculated: Level 1 unit rate x 30 units; engineering loads are often higher.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+McMaster University,Hamilton,Engineering,2022,93.73,90.73,,https://www.mcmaster.ca,10293.0,Tuition only. Calculated: Level 1 unit rate x 30 units; engineering loads are often higher.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+Ontario Tech University,Oshawa,Engineering,2021,93.15,86.71,,https://ontariotechu.ca,,,,
+Ontario Tech University,Oshawa,Engineering,2022,87.07,81.2,,https://ontariotechu.ca,,,,
+University of Toronto,Toronto,Engineering,2021,93.98,93.15,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Engineering,2022,93.02,91.67,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Engineering,2021,96.14,95.72,,https://uwaterloo.ca,,,,
+University of Waterloo,Waterloo,Engineering,2022,94.27,93.11,,https://uwaterloo.ca,,,,
+Western University,London,Engineering,2021,87.16,87.0,,https://www.uwo.ca,12539.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+Western University,London,Engineering,2022,92.5,92.21,,https://www.uwo.ca,12539.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+York University,Toronto,Engineering,2021,88.46,86.96,,https://www.yorku.ca,10600.0,Approximate tuition only; assumes 36 credits.,2026-27,https://futurestudents.yorku.ca/financing-your-degree/tuition-fees
+York University,Toronto,Engineering,2022,96.43,96.43,,https://www.yorku.ca,10600.0,Approximate tuition only; assumes 36 credits.,2026-27,https://futurestudents.yorku.ca/financing-your-degree/tuition-fees
+McMaster University,Hamilton,Fine & Applied Arts,2021,100.0,81.82,,https://www.mcmaster.ca,,,,
+McMaster University,Hamilton,Fine & Applied Arts,2022,66.67,100.0,,https://www.mcmaster.ca,,,,
+University of Toronto,Toronto,Fine & Applied Arts,2021,88.89,86.79,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Fine & Applied Arts,2022,93.18,81.08,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Fine & Applied Arts,2021,100.0,100.0,,https://uwaterloo.ca,,,,
+University of Waterloo,Waterloo,Fine & Applied Arts,2022,100.0,100.0,,https://uwaterloo.ca,,,,
+Western University,London,Fine & Applied Arts,2021,90.0,83.33,,https://www.uwo.ca,,,,
+Western University,London,Fine & Applied Arts,2022,86.36,93.75,,https://www.uwo.ca,,,,
+York University,Toronto,Fine & Applied Arts,2021,93.46,88.36,,https://www.yorku.ca,,,,
+York University,Toronto,Fine & Applied Arts,2022,82.68,76.42,,https://www.yorku.ca,,,,
+University of Toronto,Toronto,Food Science & Nutrition,2021,100.0,88.89,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Food Science & Nutrition,2022,88.89,87.5,,https://www.utoronto.ca,,,,
+Western University,London,Food Science & Nutrition,2021,94.44,93.62,,https://www.uwo.ca,,,,
+Western University,London,Food Science & Nutrition,2022,100.0,100.0,,https://www.uwo.ca,,,,
+University of Toronto,Toronto,Forestry,2021,100.0,,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Forestry,2022,100.0,66.67,,https://www.utoronto.ca,,,,
+McMaster University,Hamilton,Humanities,2021,91.0,90.36,,https://www.mcmaster.ca,6163.2,Tuition only. Calculated: B.A. Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+McMaster University,Hamilton,Humanities,2022,90.41,83.78,,https://www.mcmaster.ca,6163.2,Tuition only. Calculated: B.A. Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+Ontario Tech University,Oshawa,Humanities,2021,77.78,88.89,,https://ontariotechu.ca,6102.46,Tuition only. Ontario resident; Bachelor of Arts rate (30 credit hours).,2026-27,https://registrar.ontariotechu.ca/fees-and-payment/domestic-student-tuition/undergraduate-domestic-tuition-2026-2027.php
+Ontario Tech University,Oshawa,Humanities,2022,83.33,90.0,,https://ontariotechu.ca,6102.46,Tuition only. Ontario resident; Bachelor of Arts rate (30 credit hours).,2026-27,https://registrar.ontariotechu.ca/fees-and-payment/domestic-student-tuition/undergraduate-domestic-tuition-2026-2027.php
+University of Toronto,Toronto,Humanities,2021,89.69,87.5,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Humanities,2022,88.85,84.89,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Humanities,2021,90.16,92.86,,https://uwaterloo.ca,9000.0,Estimate: tuition plus incidental fees for two terms; rounded (Faculty of Arts).,2026-27,https://uwaterloo.ca/future-students/financing/tuition
+University of Waterloo,Waterloo,Humanities,2022,90.0,93.94,,https://uwaterloo.ca,9000.0,Estimate: tuition plus incidental fees for two terms; rounded (Faculty of Arts).,2026-27,https://uwaterloo.ca/future-students/financing/tuition
+Western University,London,Humanities,2021,95.16,92.79,,https://www.uwo.ca,6171.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+Western University,London,Humanities,2022,96.36,94.44,,https://www.uwo.ca,6171.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+York University,Toronto,Humanities,2021,93.75,85.84,,https://www.yorku.ca,6200.0,Approximate tuition only; most Arts and Science programs.,2026-27,https://futurestudents.yorku.ca/financing-your-degree/tuition-fees
+York University,Toronto,Humanities,2022,90.48,86.31,,https://www.yorku.ca,6200.0,Approximate tuition only; most Arts and Science programs.,2026-27,https://futurestudents.yorku.ca/financing-your-degree/tuition-fees
+University of Toronto,Toronto,Journalism,2021,100.0,75.0,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Journalism,2022,100.0,80.0,,https://www.utoronto.ca,,,,
+McMaster University,Hamilton,"Kinesiology, Recreation & Phys. Educ.",2021,96.61,93.88,,https://www.mcmaster.ca,,,,
+McMaster University,Hamilton,"Kinesiology, Recreation & Phys. Educ.",2022,95.0,92.31,,https://www.mcmaster.ca,,,,
+Ontario Tech University,Oshawa,"Kinesiology, Recreation & Phys. Educ.",2021,94.59,83.33,,https://ontariotechu.ca,,,,
+Ontario Tech University,Oshawa,"Kinesiology, Recreation & Phys. Educ.",2022,88.89,96.0,,https://ontariotechu.ca,,,,
+University of Toronto,Toronto,"Kinesiology, Recreation & Phys. Educ.",2021,98.18,93.75,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,"Kinesiology, Recreation & Phys. Educ.",2022,95.45,93.33,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,"Kinesiology, Recreation & Phys. Educ.",2021,93.33,93.67,,https://uwaterloo.ca,,,,
+University of Waterloo,Waterloo,"Kinesiology, Recreation & Phys. Educ.",2022,90.0,96.92,,https://uwaterloo.ca,,,,
+Western University,London,"Kinesiology, Recreation & Phys. Educ.",2021,98.36,92.45,,https://www.uwo.ca,,,,
+Western University,London,"Kinesiology, Recreation & Phys. Educ.",2022,97.92,95.35,,https://www.uwo.ca,,,,
+York University,Toronto,"Kinesiology, Recreation & Phys. Educ.",2021,88.15,82.61,,https://www.yorku.ca,,,,
+York University,Toronto,"Kinesiology, Recreation & Phys. Educ.",2022,88.52,85.95,,https://www.yorku.ca,,,,
+University of Toronto,Toronto,Law,2021,98.02,93.46,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Law,2022,94.37,83.1,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Law,2021,95.0,95.0,,https://uwaterloo.ca,,,,
+University of Waterloo,Waterloo,Law,2022,92.86,93.75,,https://uwaterloo.ca,,,,
+Western University,London,Law,2021,94.87,97.44,,https://www.uwo.ca,,,,
+Western University,London,Law,2022,96.15,96.0,,https://www.uwo.ca,,,,
+York University,Toronto,Law,2021,95.06,97.53,,https://www.yorku.ca,,,,
+York University,Toronto,Law,2022,90.28,94.44,,https://www.yorku.ca,,,,
+McMaster University,Hamilton,Mathematics,2021,88.14,88.89,,https://www.mcmaster.ca,6163.2,Tuition only. Calculated: B.Sc. Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+McMaster University,Hamilton,Mathematics,2022,85.37,80.56,,https://www.mcmaster.ca,6163.2,Tuition only. Calculated: B.Sc. Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+Ontario Tech University,Oshawa,Mathematics,2021,100.0,100.0,,https://ontariotechu.ca,,,,
+Ontario Tech University,Oshawa,Mathematics,2022,100.0,100.0,,https://ontariotechu.ca,,,,
+University of Toronto,Toronto,Mathematics,2021,85.63,83.12,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Mathematics,2022,87.66,82.99,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Mathematics,2021,97.62,90.43,,https://uwaterloo.ca,9000.0,Estimate: tuition plus incidental fees for two terms; rounded.,2026-27,https://uwaterloo.ca/future-students/financing/tuition
+University of Waterloo,Waterloo,Mathematics,2022,93.81,91.21,,https://uwaterloo.ca,9000.0,Estimate: tuition plus incidental fees for two terms; rounded.,2026-27,https://uwaterloo.ca/future-students/financing/tuition
+Western University,London,Mathematics,2021,95.0,100.0,,https://www.uwo.ca,6171.0,Tuition only. Ontario resident; draft schedule (Science rate).,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+Western University,London,Mathematics,2022,94.44,94.44,,https://www.uwo.ca,6171.0,Tuition only. Ontario resident; draft schedule (Science rate).,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+York University,Toronto,Mathematics,2021,94.12,80.0,,https://www.yorku.ca,,,,
+York University,Toronto,Mathematics,2022,89.47,88.89,,https://www.yorku.ca,,,,
+McMaster University,Hamilton,Medicine & Related Programs,2021,100.0,98.65,,https://www.mcmaster.ca,,,,
+McMaster University,Hamilton,Medicine & Related Programs,2022,100.0,100.0,,https://www.mcmaster.ca,,,,
+University of Toronto,Toronto,Medicine & Related Programs,2021,100.0,100.0,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Medicine & Related Programs,2022,98.28,96.49,,https://www.utoronto.ca,,,,
+Western University,London,Medicine & Related Programs,2021,100.0,100.0,,https://www.uwo.ca,,,,
+Western University,London,Medicine & Related Programs,2022,100.0,100.0,,https://www.uwo.ca,,,,
+McMaster University,Hamilton,Nursing,2021,98.91,99.45,,https://www.mcmaster.ca,6163.2,Tuition only. Calculated: Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+McMaster University,Hamilton,Nursing,2022,98.4,96.83,,https://www.mcmaster.ca,6163.2,Tuition only. Calculated: Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+Ontario Tech University,Oshawa,Nursing,2021,98.99,97.0,,https://ontariotechu.ca,,,,
+Ontario Tech University,Oshawa,Nursing,2022,97.44,96.0,,https://ontariotechu.ca,,,,
+University of Toronto,Toronto,Nursing,2021,97.73,100.0,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Nursing,2022,100.0,100.0,,https://www.utoronto.ca,,,,
+Western University,London,Nursing,2021,96.47,98.8,,https://www.uwo.ca,6171.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+Western University,London,Nursing,2022,97.22,98.59,,https://www.uwo.ca,6171.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+York University,Toronto,Nursing,2021,96.39,91.46,,https://www.yorku.ca,,,,
+York University,Toronto,Nursing,2022,96.58,92.86,,https://www.yorku.ca,,,,
+University of Waterloo,Waterloo,Optometry,2021,100.0,100.0,,https://uwaterloo.ca,,,,
+University of Waterloo,Waterloo,Optometry,2022,100.0,100.0,,https://uwaterloo.ca,,,,
+McMaster University,Hamilton,Other Arts & Science,2021,100.0,100.0,,https://www.mcmaster.ca,,,,
+McMaster University,Hamilton,Other Arts & Science,2022,100.0,100.0,,https://www.mcmaster.ca,,,,
+University of Toronto,Toronto,Other Arts & Science,2021,90.91,95.24,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Other Arts & Science,2022,85.19,76.0,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Other Arts & Science,2021,95.5,84.76,,https://uwaterloo.ca,,,,
+University of Waterloo,Waterloo,Other Arts & Science,2022,90.1,83.51,,https://uwaterloo.ca,,,,
+Western University,London,Other Arts & Science,2021,100.0,100.0,,https://www.uwo.ca,,,,
+Western University,London,Other Arts & Science,2022,92.86,84.62,,https://www.uwo.ca,,,,
+York University,Toronto,Other Arts & Science,2021,75.0,66.67,,https://www.yorku.ca,,,,
+York University,Toronto,Other Arts & Science,2022,80.0,33.33,,https://www.yorku.ca,,,,
+McMaster University,Hamilton,Other Health Professions,2021,97.6,98.45,,https://www.mcmaster.ca,,,,
+McMaster University,Hamilton,Other Health Professions,2022,95.15,96.33,,https://www.mcmaster.ca,,,,
+Ontario Tech University,Oshawa,Other Health Professions,2021,91.07,90.2,,https://ontariotechu.ca,,,,
+Ontario Tech University,Oshawa,Other Health Professions,2022,90.2,87.23,,https://ontariotechu.ca,,,,
+University of Toronto,Toronto,Other Health Professions,2021,91.03,86.75,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Other Health Professions,2021,96.0,93.02,,https://uwaterloo.ca,,,,
+University of Waterloo,Waterloo,Other Health Professions,2022,95.16,88.33,,https://uwaterloo.ca,,,,
+Western University,London,Other Health Professions,2021,93.71,92.86,,https://www.uwo.ca,,,,
+Western University,London,Other Health Professions,2022,91.35,92.31,,https://www.uwo.ca,,,,
+York University,Toronto,Other Health Professions,2021,88.0,70.83,,https://www.yorku.ca,,,,
+York University,Toronto,Other Health Professions,2022,84.62,85.71,,https://www.yorku.ca,,,,
+University of Toronto,Toronto,Pharmacy,2021,98.98,100.0,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Pharmacy,2022,98.48,100.0,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Pharmacy,2021,100.0,100.0,,https://uwaterloo.ca,,,,
+University of Waterloo,Waterloo,Pharmacy,2022,100.0,97.37,,https://uwaterloo.ca,,,,
+McMaster University,Hamilton,Physical Science,2021,97.37,90.63,,https://www.mcmaster.ca,6163.2,Tuition only. Calculated: B.Sc. Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+McMaster University,Hamilton,Physical Science,2022,96.43,90.32,,https://www.mcmaster.ca,6163.2,Tuition only. Calculated: B.Sc. Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+Ontario Tech University,Oshawa,Physical Science,2021,100.0,88.89,,https://ontariotechu.ca,6102.46,Tuition only. Ontario resident; Bachelor of Science rate (30 credit hours).,2026-27,https://registrar.ontariotechu.ca/fees-and-payment/domestic-student-tuition/undergraduate-domestic-tuition-2026-2027.php
+Ontario Tech University,Oshawa,Physical Science,2022,100.0,50.0,,https://ontariotechu.ca,6102.46,Tuition only. Ontario resident; Bachelor of Science rate (30 credit hours).,2026-27,https://registrar.ontariotechu.ca/fees-and-payment/domestic-student-tuition/undergraduate-domestic-tuition-2026-2027.php
+University of Toronto,Toronto,Physical Science,2021,91.94,84.48,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Physical Science,2022,80.95,85.48,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Physical Science,2021,94.87,91.18,,https://uwaterloo.ca,9000.0,Estimate: tuition plus incidental fees for two terms; rounded (Faculty of Science).,2026-27,https://uwaterloo.ca/future-students/financing/tuition
+University of Waterloo,Waterloo,Physical Science,2022,86.11,82.35,,https://uwaterloo.ca,9000.0,Estimate: tuition plus incidental fees for two terms; rounded (Faculty of Science).,2026-27,https://uwaterloo.ca/future-students/financing/tuition
+Western University,London,Physical Science,2021,85.71,91.67,,https://www.uwo.ca,6171.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+Western University,London,Physical Science,2022,78.26,91.67,,https://www.uwo.ca,6171.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+York University,Toronto,Physical Science,2021,92.86,61.54,,https://www.yorku.ca,,,,
+York University,Toronto,Physical Science,2022,88.24,82.35,,https://www.yorku.ca,,,,
+McMaster University,Hamilton,Social Science,2021,91.19,90.3,,https://www.mcmaster.ca,6163.2,Tuition only. Calculated: Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+McMaster University,Hamilton,Social Science,2022,89.11,86.54,,https://www.mcmaster.ca,6163.2,Tuition only. Calculated: Level 1 unit rate x 30 units.,2026-27,https://registrar.mcmaster.ca/fees/undergraduate/
+Ontario Tech University,Oshawa,Social Science,2021,94.59,85.29,,https://ontariotechu.ca,6102.46,Tuition only. Ontario resident; Bachelor of Arts rate (30 credit hours).,2026-27,https://registrar.ontariotechu.ca/fees-and-payment/domestic-student-tuition/undergraduate-domestic-tuition-2026-2027.php
+Ontario Tech University,Oshawa,Social Science,2022,92.55,82.47,,https://ontariotechu.ca,6102.46,Tuition only. Ontario resident; Bachelor of Arts rate (30 credit hours).,2026-27,https://registrar.ontariotechu.ca/fees-and-payment/domestic-student-tuition/undergraduate-domestic-tuition-2026-2027.php
+University of Toronto,Toronto,Social Science,2021,91.54,85.14,,https://www.utoronto.ca,,,,
+University of Toronto,Toronto,Social Science,2022,87.79,83.54,,https://www.utoronto.ca,,,,
+University of Waterloo,Waterloo,Social Science,2021,94.32,91.4,,https://uwaterloo.ca,9000.0,Estimate: tuition plus incidental fees for two terms; rounded (Faculty of Arts).,2026-27,https://uwaterloo.ca/future-students/financing/tuition
+University of Waterloo,Waterloo,Social Science,2022,93.19,90.83,,https://uwaterloo.ca,9000.0,Estimate: tuition plus incidental fees for two terms; rounded (Faculty of Arts).,2026-27,https://uwaterloo.ca/future-students/financing/tuition
+Western University,London,Social Science,2021,96.91,87.2,,https://www.uwo.ca,6171.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+Western University,London,Social Science,2022,92.11,88.99,,https://www.uwo.ca,6171.0,Tuition only. Ontario resident; draft schedule.,2026-27,https://registrar.uwo.ca/Student_finances/fees_refunds/2026-27-UGRD-Fee-Schedule---FT-Domestic1.pdf
+York University,Toronto,Social Science,2021,90.3,82.79,,https://www.yorku.ca,6200.0,Approximate tuition only; most Arts and Science programs.,2026-27,https://futurestudents.yorku.ca/financing-your-degree/tuition-fees
+York University,Toronto,Social Science,2022,88.34,81.06,,https://www.yorku.ca,6200.0,Approximate tuition only; most Arts and Science programs.,2026-27,https://futurestudents.yorku.ca/financing-your-degree/tuition-fees
+McMaster University,Hamilton,Theology,2021,75.0,75.0,,https://www.mcmaster.ca,,,,
+McMaster University,Hamilton,Theology,2022,100.0,83.33,,https://www.mcmaster.ca,,,,
+University of Toronto,Toronto,Theology,2022,96.88,96.77,,https://www.utoronto.ca,,,,
+Western University,London,Theology,2021,91.67,100.0,,https://www.uwo.ca,,,,
+Western University,London,Therapy & Rehabilitation,2021,100.0,90.0,,https://www.uwo.ca,,,,
+Western University,London,Therapy & Rehabilitation,2022,100.0,100.0,,https://www.uwo.ca,,,,

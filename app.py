@@ -24,9 +24,5 @@ def home():
         "index.html", programs=programs, selected=selected, results=results
     )
 
-@app.route("/test")
-def test():
-    return "Flask works!"
-
 if __name__ == "__main__":
     app.run(debug=True, port=5001)
